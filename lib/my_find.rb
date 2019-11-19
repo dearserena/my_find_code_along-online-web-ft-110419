@@ -9,4 +9,5 @@ i = 0
   end
   i += 1 
   end
+  my_find(collection) {|1| 1 % 3 == 0 and 1 % 5 == 0 }
 end
